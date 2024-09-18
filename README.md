@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![My current coding time so far](https://wakatime.com/share/@Blackburn/f1281738-da00-4826-a3bb-b1a94051266b.svg "My current coding time so far")
